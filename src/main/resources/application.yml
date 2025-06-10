@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+management:
+  server:
+    port: 8080
+
+spring:
+  application:
+    name: labuk-admin-boot
